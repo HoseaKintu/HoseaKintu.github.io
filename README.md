@@ -1,5 +1,5 @@
 
-  
+ <header> 
   <h1>Home Appliances Store</h1>
         <nav>
             <ul>
