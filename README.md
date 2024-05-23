@@ -1,6 +1,13 @@
-
- <header> 
-  <h1>Home Appliances Store</h1>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Appliances</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Home Appliances Store</h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
@@ -51,7 +58,3 @@
     <footer>
         <p>&copy; 2024 Home Appliances Store. All rights reserved.</p>
     </footer>
-
-    <script src="scripts.js"></script>
-</body>
-</html>
