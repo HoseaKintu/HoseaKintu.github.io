@@ -58,3 +58,7 @@
     <footer>
         <p>&copy; 2024 Home Appliances Store. All rights reserved.</p>
     </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
