@@ -1,6 +1,6 @@
 
-    <header>
-        <h1>Home Appliances Store</h1>
+  
+  <h1>Home Appliances Store</h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
